@@ -1,6 +1,4 @@
-/* This script creates event listeners for the programming language logos
-on the Skills page and writes selected code samples to the code window 
-underneath when a logo is clicked. 
+/* This script creates event listeners for the programming language logos and writes selected code samples to the code window when a logo is clicked. 
 
 Code sample is written to the code window incrementally, growing by one letter 
 at a time and keywords are colour-coded by type, according to CSS stylesheet 
